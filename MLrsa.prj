@@ -1,0 +1,62 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="2326855555" file="C:\Users\JP\Documents\MATLAB\velascoa_criptografía\velascoa_criptografia.prj" location="C:\Users\JP\Documents\MATLAB\velascoa_criptografía" name="velascoa_criptografia" target="target.mlapps" target-name="Package App">
+    <param.appname>velascoa_criptografia</param.appname>
+    <param.authnamewatermark>Angel Velasco</param.authnamewatermark>
+    <param.email>ajvelascos@utn.edu.ec</param.email>
+    <param.company>Universidad Técnica del Norte</param.company>
+    <param.icon />
+    <param.icons />
+    <param.summary>Generación de Claves RSA
+Simulación de la transmisión de un mensaje encriptado</param.summary>
+    <param.description>Trabajo de la materia de Seguridad en Redes</param.description>
+    <param.screenshot>C:\Users\JP\AppData\Local\Temp\tp94b292a7_2511_492b_9efd_d8f83fe982a2.png</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>${PROJECT_ROOT}</param.output>
+    <param.guid>7cf1296a-bb1f-448d-aec2-aacc6b38d53d</param.guid>
+    <unset>
+      <param.icon />
+      <param.icons />
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\avelasco_criptografiaapp.mlapp</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>D:\OneDrive\Documents\MATLAB\arrow_down_right.png</file>
+    </fileset.depfun>
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="C:\Users\JP\Documents\MATLAB" name="velascoa_criptografía" optional="false">C:\Users\JP\Documents\MATLAB\velascoa_criptografía</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2021a</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
